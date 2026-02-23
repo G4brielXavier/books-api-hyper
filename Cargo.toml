@@ -1,0 +1,12 @@
+[package]
+name = "BooksAPI"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+hyper-util = { version = "0.1", features = ["full"] }
+serde = { version = "1.0", features = ["derive"] }
+hyper = { version = "1", features = ["full"] }
+tokio = { version = "1", features = ["full"] }
+http-body-util = "0.1"
+serde_json = "1.0"

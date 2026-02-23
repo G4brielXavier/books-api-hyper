@@ -1,0 +1,1 @@
+hyper::service::util::ServiceFn<{closure@src\main.rs:72:50: 72:60}, hyper::body::Bytes>: Service<hyper::Request<hyper::body::Incoming>>
