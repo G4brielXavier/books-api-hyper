@@ -1,1 +1,0 @@
-std::option::Option<impl Future<Output = Result<Response<http_body_util::Full<hyper::body::Bytes>>, Infallible>>>
